@@ -45,7 +45,10 @@
 
 
 ## Linguagens mais usadas
-<br/>
+
+&nbsp;
+&nbsp;
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGrcia&layout=compact)
 
