@@ -1,15 +1,7 @@
   # Seja Bem Vindo 🙋🏾‍♂️
-- 👋 Olá, sou Francisco Garcia
-- 🌐 Estou interessado em desenvolvimento Web Front-End
-- 📚 Estou aprendendo atualmente Desenvolvimento Web Front-End, HTML, CSS, JavaScript, Agular, React.Js
-- 💼 Estou procurando colaborar em  Projetos de código aberto voltados para o desenvolvimento Web, e Projetos que promovam a educação tecnológica e a acessibilidade digital
-- ✉️ E-mail: francisco.garcia@cisdsolucoes.com/ francisco.garcia@sistec.co.ao
-- 💡 Curiosidades: Sempre fui fascinado por resolver quebra-cabeças e desafios de lógica🧑🏾‍💻
+Olá, sou Francisco Garcia 👋
 
-
-
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://tm.ibxk.com.br/2023/07/26/26110031907090.jpeg?ims=1280x480"/>
-
+&nbsp; 
 
 
 <div  align="center" style="margin-bottom:100px">
