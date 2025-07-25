@@ -56,9 +56,6 @@
 
 <footer>
 
-- [Get Support](https://github.com/your-repository/issues)
-- [GitHub Status](https://www.githubstatus.com/)
-- [Code of Conduct](https://github.com/your-repository/blob/main/CODE_OF_CONDUCT.md)
-- [License](https://github.com/your-repository/blob/main/LICENSE)
+Sou um desenvolvedor web apaixonado por criar experiências digitais funcionais, modernas e responsivas. Tenho experiência com tecnologias como HTML, CSS e JavaScript.
 
 </footer>
