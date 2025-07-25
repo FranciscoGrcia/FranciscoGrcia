@@ -46,9 +46,6 @@
 
 ## Linguagens mais usadas
 
-&nbsp;
-&nbsp;
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGrcia&layout=compact)
 
