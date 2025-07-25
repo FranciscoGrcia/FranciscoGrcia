@@ -44,6 +44,8 @@
 <a href="https://www.linkedin.com/feed/?trk=nav_back_to_linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
+&nbsp;
+&nbsp;
 
 ## LINGUAGENS MAIS USADAS
 
