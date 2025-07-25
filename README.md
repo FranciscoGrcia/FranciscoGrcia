@@ -6,14 +6,14 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FranciscoGrcia&theme=radical&mode=weekly" />
  </div>
 
 
 
 ## Minhas Habilidades
 
-#### Tecnologias que amo:
+#### Tecnologias que amo
 ![HTML](https://img.shields.io/badge/HTML-DD0031?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -26,7 +26,7 @@
 
 
 
-#### Ferramentas de Trabalho:
+#### Ferramentas de Trabalho
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
@@ -35,7 +35,7 @@
 &nbsp;
 &nbsp;
 
-## Contactos:
+## Contactos
 
 <div> 
 <a href="https://www.instagram.com/franccisco04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -44,6 +44,8 @@
 <a href="https://www.linkedin.com/feed/?trk=nav_back_to_linkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>
 
+
+## Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGrcia&layout=compact)
 
