@@ -1,6 +1,7 @@
   # Olá, sou Francisco Garcia 👋
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://tm.ibxk.com.br/2023/07/26/26110031907090.jpeg?ims=1280x480"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscogrcia&show_icons=true&theme=radical)
 
 &nbsp; 
 
@@ -23,7 +24,6 @@
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscogrcia&show_icons=true&theme=radical)
 
 
 
