@@ -13,7 +13,6 @@
 
 ## Minhas Habilidades
 
-<br/>
 #### Tecnologias que amo
 ![HTML](https://img.shields.io/badge/HTML-DD0031?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
