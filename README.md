@@ -1,4 +1,4 @@
-  # Olá, sou Francisco Garcia 👋
+  # Olá, sou Francisco Garcia 👨🏿‍💻 👋
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://tm.ibxk.com.br/2023/07/26/26110031907090.jpeg?ims=1280x480"/>
 
