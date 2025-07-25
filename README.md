@@ -11,7 +11,7 @@
  </div>
 
 
-## Minhas Habilidades
+## MINHAS HABILIDADES
 
 #### Tecnologias que amo
 ![HTML](https://img.shields.io/badge/HTML-DD0031?style=for-the-badge&logo=html&logoColor=white)&nbsp;
@@ -34,7 +34,8 @@
 &nbsp;
 &nbsp;
 
-## Contactos
+
+## CONTACTOS
 
 <div> 
 <a href="https://www.instagram.com/franccisco04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -44,14 +45,14 @@
 </div>
 
 
-## Linguagens mais usadas
+## LINGUAGENS MAIS USADAS
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGrcia&layout=compact)
 
 
 
- ## Rodapé
+ ## RODAPÉ
 
 <footer>
 
