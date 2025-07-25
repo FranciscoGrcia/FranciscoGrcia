@@ -10,7 +10,7 @@
 
 <img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://tm.ibxk.com.br/2023/07/26/26110031907090.jpeg?ims=1280x480"/>
 
-&nbsp; 
+
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
