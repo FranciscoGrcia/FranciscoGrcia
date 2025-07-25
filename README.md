@@ -7,14 +7,14 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-HilarioGit.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://meuportfolio-vercel.vercel.app//api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
 
 
 
 ## Minhas Habilidades
 
-#### Pilha Principal:
+#### Tecnologias que amo:
 ![HTML](https://img.shields.io/badge/HTML-DD0031?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
