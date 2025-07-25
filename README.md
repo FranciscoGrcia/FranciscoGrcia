@@ -12,8 +12,8 @@
 
 
 ## Minhas Habilidades
-<br/>
 
+<br/>
 #### Tecnologias que amo
 ![HTML](https://img.shields.io/badge/HTML-DD0031?style=for-the-badge&logo=html&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -47,7 +47,7 @@
 
 
 ## Linguagens mais usadas
-
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoGrcia&layout=compact)
 
